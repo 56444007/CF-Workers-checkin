@@ -1,6 +1,6 @@
-let domain = "这里填机场域名";
-let user = "这里填邮箱";
-let pass = "这里填密码";
+let domain = "https://69yun69.com";
+let user = "1012008792@qq.com";
+let pass = "56444007";
 let 签到结果;
 let BotToken ='';
 let ChatID =''; 
